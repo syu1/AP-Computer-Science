@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ h\ w\ color
+comment0.target=PhysicsCircle(double,\ double,\ double,\ double,\ java.awt.Color)
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ PhysicsCircle\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ Draws\ a\ circle\ and\ fills\ it\ in\ using\ parameters\r\n\ @param\ graphics\ g2\ needed\ for\ gui\ and\ graphics\ usage\r\n
+numComments=2

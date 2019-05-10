@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Instantiates\ a\ new\ model\ viewer\r\n\r\n\ @param\ main\ method\ no\ parameters\r\n\ @throws\ exception\r\n
+comment1.params=
+comment1.target=ModelViewer()
+comment1.text=\r\n\ ModelViewer\ Constructor\r\n\ Creates\ a\ new\ ModelPanel,\ JFrame\ and\ uses\ methods\r\n\ from\ ModelPanel\ class\ to\ apply\ the\ algorithm\r\n\ to\ run\ the\ collision\ software\r\n\ \r\n@throws\ exception\r\n
+comment2.params=
+comment2.target=int\ getFrameWidth()
+comment2.text=\r\n\ A\ method\ that\ returns\ the\ width\ of\ the\ JFrame\r\n\r\n\ @return\ int\ value\ for\ the\ width\r\n
+comment3.params=
+comment3.target=int\ getFrameHeight()
+comment3.text=\r\n\ A\ method\ that\ returns\ the\ height\ of\ the\ Jframe\r\n\r\n\ @return\ int\ value\ for\ the\ height\r\n
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\r\n\ Must\ have\ this\ method\ because\ of\ interfacing\ with\ JPanel\r\n\r\n\ @param\ event\ A\ parameter\r\n
+numComments=5
