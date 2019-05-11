@@ -1,0 +1,50 @@
+Class documentation
+<---- javadoc command: ---->
+C:\PROGRA~1\Java\JDK17~1.0_6\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.8.2.jar;H:\GitHub\unit2Classes\New Folder\Unit3class
+-d
+H:\GitHub\unit2Classes\New Folder\Unit3class\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+H:\GitHub\unit2Classes\New Folder\Unit3class\Car.java
+<---- end of javadoc command ---->
+Loading source file H:\GitHub\unit2Classes\New Folder\Unit3class\Car.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_60
+Building tree for all the packages and classes...
+Generating H:\GitHub\unit2Classes\New Folder\Unit3class\doc\Car.html...
+H:\GitHub\unit2Classes\New Folder\Unit3class\Car.java:34: warning - @pre is an unknown tag.
+H:\GitHub\unit2Classes\New Folder\Unit3class\Car.java:50: warning - @pre is an unknown tag.
+H:\GitHub\unit2Classes\New Folder\Unit3class\Car.java:50: warning - @post is an unknown tag.
+H:\GitHub\unit2Classes\New Folder\Unit3class\Car.java:50: warning - @param argument "y" is not a parameter name.
+H:\GitHub\unit2Classes\New Folder\Unit3class\Car.java:50: warning - @return tag cannot be used in method with void return type.
+H:\GitHub\unit2Classes\New Folder\Unit3class\Car.java:66: warning - @pre is an unknown tag.
+H:\GitHub\unit2Classes\New Folder\Unit3class\Car.java:66: warning - @post is an unknown tag.
+H:\GitHub\unit2Classes\New Folder\Unit3class\Car.java:66: warning - @param argument "y" is not a parameter name.
+Generating H:\GitHub\unit2Classes\New Folder\Unit3class\doc\package-frame.html...
+Generating H:\GitHub\unit2Classes\New Folder\Unit3class\doc\package-summary.html...
+Generating H:\GitHub\unit2Classes\New Folder\Unit3class\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating H:\GitHub\unit2Classes\New Folder\Unit3class\doc\allclasses-frame.html...
+Generating H:\GitHub\unit2Classes\New Folder\Unit3class\doc\allclasses-noframe.html...
+Generating H:\GitHub\unit2Classes\New Folder\Unit3class\doc\index.html...
+Generating H:\GitHub\unit2Classes\New Folder\Unit3class\doc\stylesheet.css...
+8 warnings
